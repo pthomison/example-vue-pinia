@@ -1,6 +1,6 @@
 import * as Vue from 'Vue';
 
-import { createPinia, defineStore } from 'pinia'
+import { createPinia } from 'pinia';
 
 import App from './app.vue';
 import Component from './component.vue';
